@@ -8,6 +8,7 @@ public class Principal {
 		System.out.println("Estamos haciendo control de versiones 2.0 con GIT");
 		System.out.println("Estamos haciendo control de versiones 3.0 con GIT");
 		System.out.println("Estamos haciendo control de versiones 4.0 con GIT");
+		System.out.println("Estamos haciendo control de versiones 5.0 con GIT");
 	}
 
 }
